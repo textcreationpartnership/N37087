@@ -113,14 +113,14 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:048579_0000_102593F9915AF288"/>
-            <pb facs="tcp:048579_0001_102593FE1F2962F0"/>
+            <pb facs="unknown:048579_0000_102593F9915AF288"/>
+            <pb facs="unknown:048579_0001_102593FE1F2962F0"/>
             <p>
                <figure/>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:048579_0002_102593FFB0A118C0"/>
+            <pb facs="unknown:048579_0002_102593FFB0A118C0"/>
             <p>THE MISFORTUNES OF ANGER. A DRAMA, IN TWO PARTS.</p>
             <q>
                <l>"Our Pardons gone, and <gap reason="illegible: indecipherable" extent="1 span">
@@ -134,7 +134,7 @@
                <hi>BOSTON.</hi> PRINTED FOR WILLIAM SPOTSWOOD. 1798.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:048579_0003_10259406DF68D138"/>
+            <pb facs="unknown:048579_0003_10259406DF68D138"/>
             <head>CHARACTERS.</head>
             <list>
                <item>Mrs. Selwyn, Governeſs to Juliet.</item>
@@ -147,13 +147,13 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:048579_0004_102594086E4C3BE0"/>
+            <pb facs="unknown:048579_0004_102594086E4C3BE0"/>
             <head>THE Misfortunes of Anger.</head>
             <div n="1" type="part">
                <head>SCENE, a Parlour.</head>
                <stage>Mary enters, lifts up a tambour frame which appears to have been thrown down, picks up the ſpan<g ref="char:EOLhyphen"/>gles, ſilks, &amp;c,—She ſpeaks.</stage>
                <p>SO Miſs Juliet has been here, I ſee!—What put her into a rage with her tambour, I wonder?—Oh! I ſee, this roſe-bud does not look well, ſo down it went, I'll warrant it, and here lie the ſpan<g ref="char:EOLhyphen"/>gles and twiſt thrown all over the floor. For my part, I wonder the
-<pb n="4" facs="tcp:048579_0005_1025940CCDC89C38"/>
+<pb n="4" facs="unknown:048579_0005_1025940CCDC89C38"/>
 frame was not all broke to ſmaſh, it would have been like her.—Ah! here comes Miſs Paulina! There's a young lady, marry, I wiſh our's was like her, but no hope of that!</p>
                <stage>Enter Paulina (with a book.)</stage>
                <sp>
@@ -177,7 +177,7 @@ frame was not all broke to ſmaſh, it would have been like her.—Ah! here come
                   <p>Perhaps ſhe is gone to her own room, I'll ſeek her; if ſhe comes there in the mean time, Mary tell her I am up ſtairs.</p>
                </sp>
                <sp>
-                  <pb n="5" facs="tcp:048579_0006_1025940EB2669680"/>
+                  <pb n="5" facs="unknown:048579_0006_1025940EB2669680"/>
                   <speaker>Mary.</speaker>
                   <p>Yes, Miſs, to be ſure I will.— <stage>(<hi>Paulina goes out.</hi>)</stage>—Ah! by my truth, there's ſome pleaſure in doing any thing for you, one does not get pinched and called names!—So here's the Governeſs, yawning as uſual, but juſt up.</p>
                   <stage>
@@ -194,7 +194,7 @@ frame was not all broke to ſmaſh, it would have been like her.—Ah! here come
                <sp>
                   <speaker>Mrs. Selwyn.</speaker>
                   <p>She's a ſtrange
-<pb n="6" facs="tcp:048579_0007_10259411A7B18B78"/>
+<pb n="6" facs="unknown:048579_0007_10259411A7B18B78"/>
 girl, I can't help laughing at her ſometimes.</p>
                </sp>
                <sp>
@@ -225,7 +225,7 @@ girl, I can't help laughing at her ſometimes.</p>
                   <p>And ſhe'll fatigue me ſadly too, well, never mind, ſhe'll come bye<g ref="char:EOLhyphen"/>and bye.</p>
                </sp>
                <stage>
-                  <pb n="7" facs="tcp:048579_0008_1025941607251DE8"/>
+                  <pb n="7" facs="unknown:048579_0008_1025941607251DE8"/>
                   <hi>Enter Fanny, (crying)</hi>
                </stage>
                <sp>
@@ -253,7 +253,7 @@ girl, I can't help laughing at her ſometimes.</p>
                   <p>Yes, ma'am, and ſo ma'am, if you pleaſe, I met Miſs Juliet; and ſo ſhe aſked me what I wanted, and ſo I told, and ſo the</p>
                </sp>
                <sp>
-                  <pb n="8" facs="tcp:048579_0009_10259417EB186CC8"/>
+                  <pb n="8" facs="unknown:048579_0009_10259417EB186CC8"/>
                   <speaker>Mrs. Selwyn.</speaker>
                   <p>Grant me pa<g ref="char:EOLhyphen"/>tience! How many more <hi>ſo's?</hi>
                   </p>
@@ -279,7 +279,7 @@ girl, I can't help laughing at her ſometimes.</p>
                   <p>I never heard ſuch a girl in my life.—What happened then?</p>
                </sp>
                <sp>
-                  <pb n="9" facs="tcp:048579_0010_1025941B39B623B0"/>
+                  <pb n="9" facs="unknown:048579_0010_1025941B39B623B0"/>
                   <speaker>Fanny.</speaker>
                   <p>Why, miſs beat me, yes, ſhe did, ever ſo hard, and ſcratch'd me.</p>
                </sp>
@@ -313,7 +313,7 @@ girl, I can't help laughing at her ſometimes.</p>
                <sp>
                   <speaker>Juliet.</speaker>
                   <p>I don't care What
-<pb n="10" facs="tcp:048579_0011_1025941FB1C614A8"/>
+<pb n="10" facs="unknown:048579_0011_1025941FB1C614A8"/>
 buſineſs had ſhe to throw down my doll?</p>
                </sp>
                <sp>
@@ -352,7 +352,7 @@ buſineſs had ſhe to throw down my doll?</p>
                   <p>My ſtars, Miſs Juliet, how you make one ſtart—What is the matter now?</p>
                </sp>
                <sp>
-                  <pb n="11" facs="tcp:048579_0012_1025A1919CB4F020"/>
+                  <pb n="11" facs="unknown:048579_0012_1025A1919CB4F020"/>
                   <speaker>Juliet.</speaker>
                   <p>Why, my naſty doll is ſuch a torment.</p>
                </sp>
@@ -386,7 +386,7 @@ buſineſs had ſhe to throw down my doll?</p>
                <sp>
                   <speaker>Mrs. Selwyn.</speaker>
                   <p>How will you
-<pb n="12" facs="tcp:048579_0013_1025A19439942878"/>
+<pb n="12" facs="unknown:048579_0013_1025A19439942878"/>
 help it?—Leave off crying direct<g ref="char:EOLhyphen"/>ly, or I will ſhut you up for two hours.— <stage>(Another pauſe, Juliet ſtill cries, but by degrees becomes quiet, af<g ref="char:EOLhyphen"/>ter ſome time ſhe calls.)</stage>—Mary!—Mary</p>
                </sp>
                <sp>
@@ -417,7 +417,7 @@ help it?—Leave off crying direct<g ref="char:EOLhyphen"/>ly, or I will ſhut y
                   </p>
                </sp>
                <sp>
-                  <pb n="13" facs="tcp:048579_0014_1025A199086C5388"/>
+                  <pb n="13" facs="unknown:048579_0014_1025A199086C5388"/>
                   <speaker>Mrs. Selwyn.</speaker>
                   <p>Yes, you love it vaſtly juſt now, but ſometimes you are ready to wring its neck, when it does not eat to please you.</p>
                </sp>
@@ -448,7 +448,7 @@ help it?—Leave off crying direct<g ref="char:EOLhyphen"/>ly, or I will ſhut y
                <sp>
                   <speaker>Juliet.</speaker>
                   <p>Come, eat then—You <hi>won't!</hi>—You naſty, little obſti<g ref="char:EOLhyphen"/>nate, ungrateful creature,—I'll
-<pb n="14" facs="tcp:048579_0015_1025A19A95A601E8"/>
+<pb n="14" facs="unknown:048579_0015_1025A19A95A601E8"/>
 teach you to teaze me, I will.— <stage>(She ſnatches the bird out of the cage in a paſſion, gives it a ſqueeze, then looks at it, and burſts into tears.)</stage>—Oh! Heaven, I have killed my bird!—</p>
                </sp>
                <sp>
@@ -477,7 +477,7 @@ teach you to teaze me, I will.— <stage>(She ſnatches the bird out of the cage
                   <p>Dear Juliet, what's the matter?</p>
                </sp>
                <sp>
-                  <pb n="15" facs="tcp:048579_0016_1025A19D21328900"/>
+                  <pb n="15" facs="unknown:048579_0016_1025A19D21328900"/>
                   <speaker>Juliet.</speaker>
                   <stage>(<hi>Throws herſelf into Paulina's arms.</hi>)</stage>
                   <p>Oh! couſin, why did you leave me?—I am never ſo naughty when you are with me.</p>
@@ -508,7 +508,7 @@ teach you to teaze me, I will.— <stage>(She ſnatches the bird out of the cage
                   <p>Oh! my couſin will hate me.</p>
                </sp>
                <sp>
-                  <pb n="16" facs="tcp:048579_0017_1025A19F87A77CE8"/>
+                  <pb n="16" facs="unknown:048579_0017_1025A19F87A77CE8"/>
                   <speaker>Paulina.</speaker>
                   <p>I hate you, my dear, no I ſhall pity you.</p>
                </sp>
@@ -536,7 +536,7 @@ teach you to teaze me, I will.— <stage>(She ſnatches the bird out of the cage
                <sp>
                   <speaker>Juliet.</speaker>
                   <p>But that was not my
-<pb n="17" facs="tcp:048579_0018_1025A1A2E1BC8D08"/>
+<pb n="17" facs="unknown:048579_0018_1025A1A2E1BC8D08"/>
 bird's fault!—Ah, my poor bird, he will never eat out of my hand again!—How could I be ſo cruel as to hurt a little creature who loved me ſo dearly.</p>
                </sp>
                <sp>
@@ -564,7 +564,7 @@ bird's fault!—Ah, my poor bird, he will never eat out of my hand again!—How 
                <sp>
                   <speaker>Paulina.</speaker>
                   <p>I can eaſily conceive
-<pb n="18" facs="tcp:048579_0019_1025A1A5FB1A37F0"/>
+<pb n="18" facs="unknown:048579_0019_1025A1A5FB1A37F0"/>
 all that, you are greatly to be piti<g ref="char:EOLhyphen"/>ed.</p>
                </sp>
                <sp>
@@ -574,7 +574,7 @@ all that, you are greatly to be piti<g ref="char:EOLhyphen"/>ed.</p>
                <sp>
                   <speaker>Paulina.</speaker>
                   <p>Certainly Mrs. Sel<g ref="char:EOLhyphen"/>wyn does not treat you properly, but that does not juſtify you. You are now, my dear, more than twelve years old; at that age, though children, we are no longer babies, but you do not ſeek to improve yourſelf. You read, indeed, be<g ref="char:EOLhyphen"/>cauſe you love reading, but not
-<pb n="19" facs="tcp:048579_0020_1025A1A9A84F03F8"/>
+<pb n="19" facs="unknown:048579_0020_1025A1A9A84F03F8"/>
 with a ſteady view to your own improvement, and almoſt all the remainder of your time is ſpent in dreſſing your doll and playing with Fanny Wood, who is too ignorant to be a proper companion for you; thus you tempt others to treat you like a baby.—I do not offend you?</p>
                </sp>
                <sp>
@@ -585,7 +585,7 @@ with a ſteady view to your own improvement, and almoſt all the remainder of yo
                   <speaker>Paulina.</speaker>
                   <p>My dear Juliet, I wiſh you a better example;—if you were with us, mama would ſoon teach you to be all your friends could wiſh.—But Juliet, with the underſtanding nature has given you, you may do much for yourſelf. In the words of a very great author I will tell you that
 <q>
-                        <pb n="20" facs="tcp:048579_0021_1025A1ABF67669D0"/>
+                        <pb n="20" facs="unknown:048579_0021_1025A1ABF67669D0"/>
                         <l>—"There is no ſoul</l>
                         <l>More able to direct you than yourſelf.</l>
                         <l>If with the ſap of Reaſon you would quench</l>
@@ -601,7 +601,7 @@ with a ſteady view to your own improvement, and almoſt all the remainder of yo
                <sp>
                   <speaker>Paulina.</speaker>
                   <p>Yes, my dear couſin, I know not to what an exceſs they may tranſport you in time, if they are not now oppoſed.—My mother told me, the other day, ſhe had juſt read the hiſtory of a man, who, when a boy, ſqueezed his ſquirrel to death
-<pb n="21" facs="tcp:048579_0022_1025A1AE4EE90828"/>
+<pb n="21" facs="unknown:048579_0022_1025A1AE4EE90828"/>
 as you did your bird, and when he grew up, after various crimes, be<g ref="char:EOLhyphen"/>ing angry with his wife, his child, who was in her arms, happened to cry while he was ſpeaking and, in a fit of paſſion, he laid his hand on it, and ſtrangled it in a moment!</p>
                </sp>
                <sp>
@@ -613,7 +613,7 @@ as you did your bird, and when he grew up, after various crimes, be<g ref="char:
                   <p>It is impoſſible to ſay to what extravagance paſſion may lead!—But yeſterday you would have deteſted the idea of injuring your bird—and are we not told in the Bible, that when the Prophet foretold to Hazael <note n="*" place="bottom">Sec 8th Chapter of the <gap reason="illegible: indecipherable" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> Book of Kings.</note> the miſeries he would bring on his country, and the cruelties of which he would be
-<pb n="22" facs="tcp:048579_0023_1025A1AFDB8BA6A8"/>
+<pb n="22" facs="unknown:048579_0023_1025A1AFDB8BA6A8"/>
 guilty he exclaimed, "Is thy ſer<g ref="char:EOLhyphen"/>vant a <hi>dog</hi> that he ſhould do this <hi>great</hi> thing?"—And yet when he gave way to his paſſions, he exactly ver<gap reason="illegible: indecipherable" extent="3 letters">
                         <desc>•••</desc>
                      </gap> the Prophet's words.</p>
@@ -632,17 +632,17 @@ guilty he exclaimed, "Is thy ſer<g ref="char:EOLhyphen"/>vant a <hi>dog</hi> th
                <trailer>END OF THE FIRST PART.</trailer>
             </div>
             <div n="2" type="part">
-               <pb facs="tcp:048579_0024_1025A1B261F96B10"/>
+               <pb facs="unknown:048579_0024_1025A1B261F96B10"/>
                <head>THE Misfortunes of Anger. PART II.</head>
                <stage>Juliet enters from the garden, ſhe draws a chair, ſits down, and leads her head on her hand.</stage>
                <sp>
                   <speaker>Juliet.</speaker>
                   <p>I HAVE a ſad head-ach, it always comes when I cry ſo much.—How true is what Paulina ſaid just now, that I make myſelf wretched by indulging my paſſions I—Why did nobody ever tell me ſo before?— <stage>(She takes a picture from her boſom and kiſſes it.</stage>—Oh, my dear mother!—You died too early to form by your example, the
-<pb n="24" facs="tcp:048579_0025_1025A1B59C8D9DB8"/>
+<pb n="24" facs="unknown:048579_0025_1025A1B59C8D9DB8"/>
 daughter you loved ſo tenderly!—Wretched girl!—Why do I ever, for a moment, forget the character which my father drew of my mother when he gave me this picture,—"Be like your mo<g ref="char:EOLhyphen"/>ther, my Juliet; ſhe was mild and gentle to all, ſhe was beloved by every one who knew her! her dy<g ref="char:EOLhyphen"/>ing wiſh was, that you might be virtuous!—My child, be worthy of your mother!—Yes, thoſe were exactly his words. Ah! how little do I fulfil her wiſhes!—I, who ill-treat the ſervant to whoſe care ſhe intruſted my infancy—Who a<g ref="char:EOLhyphen"/>buſe a poor child whoſe ſituation ſhould make me pity her!—I whom every body hates!—Torn by contrary feelings!—Capable of knowing when I do wrong, yet yielding to the next temptation.—In ſpite of my faults, am I not to be pitied?</p>
                </sp>
                <stage>
-                  <pb n="25" facs="tcp:048579_0026_1025A1B8B4331538"/>
+                  <pb n="25" facs="unknown:048579_0026_1025A1B8B4331538"/>
                   <hi>Enter Mary.</hi>
                </stage>
                <sp>
@@ -674,7 +674,7 @@ daughter you loved ſo tenderly!—Wretched girl!—Why do I ever, for a moment,
                   <p>And here you have a fine houſe, where you are, as one may ſay, miſtreſs, and a carriage, and every earthly thing you can wiſh.—Only think of the poor children down in the village: the little Wood's whoſe mother is ſo ſick, and who are half ſtarved!</p>
                </sp>
                <sp>
-                  <pb n="26" facs="tcp:048579_0027_1025A1BB39CC5B30"/>
+                  <pb n="26" facs="unknown:048579_0027_1025A1BB39CC5B30"/>
                   <speaker>Juliet.</speaker>
                   <p>Alas, yes!—And I have ill-treated poor Fanny!—My dear Mary, do go down to the village and give her this ſhilling; I will beg papa, preſently, to ſend our a<g ref="char:EOLhyphen"/>pothecary to her mother,</p>
                </sp>
@@ -702,7 +702,7 @@ daughter you loved ſo tenderly!—Wretched girl!—Why do I ever, for a moment,
                <sp>
                   <speaker>Juliet.</speaker>
                   <p>Do ſo.—I ſhall not stay long with Mrs. Selwyn.—Let
-<pb n="27" facs="tcp:048579_0028_1025A1BDCEC017B0"/>
+<pb n="27" facs="unknown:048579_0028_1025A1BDCEC017B0"/>
 me know, Mary, when my father comes in.</p>
                </sp>
                <sp>
@@ -726,7 +726,7 @@ me know, Mary, when my father comes in.</p>
                <sp>
                   <speaker>Paulina.</speaker>
                   <p>Had it pleaſed Hea<g ref="char:EOLhyphen"/>ven to ſpare Mrs. Beecher, Juliet would probably have been a very
-<pb n="28" facs="tcp:048579_0029_1025A1C075526BD0"/>
+<pb n="28" facs="unknown:048579_0029_1025A1C075526BD0"/>
 different character; ſhe has an ad<g ref="char:EOLhyphen"/>mirable underſtanding, but ſhe is ill educated.</p>
                </sp>
                <sp>
@@ -748,7 +748,7 @@ different character; ſhe has an ad<g ref="char:EOLhyphen"/>mirable underſtandi
                <sp>
                   <speaker>Mary.</speaker>
                   <p>You will, miſs, nay, you <hi>are</hi> already; truly I hear of you
-<pb n="29" facs="tcp:048579_0030_1025A1C2C67434D8"/>
+<pb n="29" facs="unknown:048579_0030_1025A1C2C67434D8"/>
 from all parts.—But I know yo don't wiſh to be praiſed.—What I was going to ſay, is this:—Nobo<g ref="char:EOLhyphen"/>dy hears us!—No—Indeed, Miſs Paulina, Mrs. Selwyn is not fit to have the care of my young lady.</p>
                </sp>
                <sp>
@@ -762,7 +762,7 @@ from all parts.—But I know yo don't wiſh to be praiſed.—What I was going t
                <sp>
                   <speaker>Paulina.</speaker>
                   <p>I ſee it with pain. She has no command over my cou<g ref="char:EOLhyphen"/>ſin, becauſe ſhe puts herſelf on a le<g ref="char:EOLhyphen"/>vel with her by mean teazing and raillery;—a paſſionate temper was never mended by irritation.—By the way, I don't much like this ſcheme of playing with Charles; Juliet and he always quarrel, and I am afraid he will overthrow all her good reſolutions. I mean to ſpeak to my uncle, to-night, about Mrs.
-<pb n="30" facs="tcp:048579_0031_1025A1C452857C50"/>
+<pb n="30" facs="unknown:048579_0031_1025A1C452857C50"/>
 Selwyn, not to blame or cenſure her, but merely to ſay I think ſhe does not exactly follow the right method of managing my couſin's temper.</p>
                </sp>
                <sp>
@@ -796,7 +796,7 @@ Selwyn, not to blame or cenſure her, but merely to ſay I think ſhe does not e
                   <stage>(Mary runs out, Juliet ſinks down with her head againſt a chair, Paulina goes to her.)</stage>
                </sp>
                <sp>
-                  <pb n="31" facs="tcp:048579_0032_1025A1C70851A768"/>
+                  <pb n="31" facs="unknown:048579_0032_1025A1C70851A768"/>
                   <speaker>Paulina.</speaker>
                   <p>Couſin!—My dear Juliet, what is the matter?—Oh, Heaven! ſhe is fainting!—What ſhall I do, ſhall I run to Charles?—No, I cannot leave this dear girl.—Juliet, revive, ſmell to my ſalts.—</p>
                   <stage>(Juliet recovering, riſes on her knees, and clings round Pauli<g ref="char:EOLhyphen"/>na.)</stage>
@@ -819,7 +819,7 @@ Selwyn, not to blame or cenſure her, but merely to ſay I think ſhe does not e
                      <stage>(<hi>ſhudders and ſhrinks back.</hi>)</stage> Unhappy girl!</p>
                </sp>
                <sp>
-                  <pb n="32" facs="tcp:048579_0033_1025A1CA1C8529A8"/>
+                  <pb n="32" facs="unknown:048579_0033_1025A1CA1C8529A8"/>
                   <speaker>Juliet.</speaker>
                   <p>Oh! well may you ſhud<g ref="char:EOLhyphen"/>der, well may you look at me with horror!—You who warned me; how dare I claſp my arms round you.—Thoſe hands, which, (how can I five to tell it) perhaps have murdered my brother. <stage>(She faints)</stage>
                   </p>
@@ -850,7 +850,7 @@ Selwyn, not to blame or cenſure her, but merely to ſay I think ſhe does not e
                <sp>
                   <speaker>Mary.</speaker>
                   <p>Yes, they were at play and quarrelled, Miſs Juliet had a
-<pb n="33" facs="tcp:048579_0034_1025A1CDEE0330A8"/>
+<pb n="33" facs="unknown:048579_0034_1025A1CDEE0330A8"/>
 knife in her hand, which ſhe threw at him.</p>
                </sp>
                <sp>
@@ -863,7 +863,7 @@ knife in her hand, which ſhe threw at him.</p>
                </sp>
                <sp>
                   <p>Paulina, where am I!—You will not ſpeak!—What have I done!—Ah I remember—too, too well I remember!— <stage>(She raiſes her<g ref="char:EOLhyphen"/>ſelf)</stage>—They are gone!—They leave me!—to die alone!—Alas I deſerve it!—Am I worthy that one creature ſhould pity me!—Yet the torments I endure!—Can they alone for my crimes?—Ne<g ref="char:EOLhyphen"/>ver, never!—Dreadful idea!—muſt I ſuffer thro' life the anguiſh I
-<pb n="34" facs="tcp:048579_0035_1025A1CF7A9325D0"/>
+<pb n="34" facs="unknown:048579_0035_1025A1CF7A9325D0"/>
 feel at this moment?—Thro' life—what terrible fears crowd upon me!— <stage>(She kneels,)</stage> Oh God of mer<g ref="char:EOLhyphen"/>cy! hear me, pity me!—Ah He is a God of <hi>juſtice!</hi>—Can he for<g ref="char:EOLhyphen"/>give <hi>me</hi> who have murdered my Brother?—What a wretch am I!</p>
                </sp>
                <stage>Enter Mary.</stage>
@@ -896,7 +896,7 @@ feel at this moment?—Thro' life—what terrible fears crowd upon me!— <stage
                   <p>The ſurgeon is with him; I could not ſtay any longer to ſee him ſuffer ſo.</p>
                </sp>
                <sp>
-                  <pb n="35" facs="tcp:048579_0036_1025A1D14B388B18"/>
+                  <pb n="35" facs="unknown:048579_0036_1025A1D14B388B18"/>
                   <speaker>Juliet.</speaker>
                   <p>Suffer!</p>
                </sp>
@@ -921,7 +921,7 @@ feel at this moment?—Thro' life—what terrible fears crowd upon me!— <stage
                <sp>
                   <speaker>Juliet.</speaker>
                   <p>I have loſt every<g ref="char:EOLhyphen"/>thing!—My father will drive me from him for ever—I ſhall quit every thing I love!—My friends, my relations will bluſh when my name is mentioned—Never more
-<pb n="36" facs="tcp:048579_0037_1025A1D459778418"/>
+<pb n="36" facs="unknown:048579_0037_1025A1D459778418"/>
 ſhall I reviſit theſe ſcenes, ſo dear to my infancy!—Let me not re<g ref="char:EOLhyphen"/>call the years I have paſt—years of innocence and happineſs!—Go where I will, I ſhall be pointed at and hated.—Even the picture of my mother, which uſed in all my diſtreſſes to conſole me, I can never fee again.—I ſhould fancy it re<g ref="char:EOLhyphen"/>proached me.—And all this miſe<g ref="char:EOLhyphen"/>ry I have incurred by one moment of paſſion!—Oh God, if thou ſhould'ſt this once deign to ſave me, never, never, will I be guilty again!</p>
                </sp>
                <stage>Enter Paulina, (running.)</stage>
@@ -943,7 +943,7 @@ feel at this moment?—Thro' life—what terrible fears crowd upon me!— <stage
                      <stage>(throwing herſelf into her arms.)</stage> Oh my beſt Paulina!</p>
                </sp>
                <sp>
-                  <pb n="37" facs="tcp:048579_0038_1025A1D6A4F22140"/>
+                  <pb n="37" facs="unknown:048579_0038_1025A1D6A4F22140"/>
                   <speaker>Paulina.</speaker>
                   <p>
                      <stage>(embracing her with tears.)</stage> I ran to you the inſtant I heard it.</p>
@@ -963,7 +963,7 @@ feel at this moment?—Thro' life—what terrible fears crowd upon me!— <stage
                <sp>
                   <speaker>Paulina.</speaker>
                   <p>I dare hope ſo!—
-<pb n="38" facs="tcp:048579_0039_1025A1D83315D1E0"/>
+<pb n="38" facs="unknown:048579_0039_1025A1D83315D1E0"/>
 The leſſons of this day have been ſtriking.—They ſhew how one ſtep in evil leads to another.—Aweful and horrid might have been the e<g ref="char:EOLhyphen"/>vent, but as it has proved, we will hope this inſtruction has been di<g ref="char:EOLhyphen"/>rected by Providence, to warn you of your danger!</p>
                </sp>
                <sp>
@@ -988,7 +988,7 @@ The leſſons of this day have been ſtriking.—They ſhew how one ſtep in evi
                   <stage>(Paulina goes out)</stage>
                </sp>
                <stage>
-                  <pb n="39" facs="tcp:048579_0040_1025A1DB9C695C78"/>
+                  <pb n="39" facs="unknown:048579_0040_1025A1DB9C695C78"/>
                   <hi>Enter Mrs. Selwyn and Mary.</hi>
                </stage>
                <sp>
@@ -1026,7 +1026,7 @@ The leſſons of this day have been ſtriking.—They ſhew how one ſtep in evi
                <sp>
                   <speaker>Mary.</speaker>
                   <p>No, no, they an't very
-<pb n="40" facs="tcp:048579_0041_10258E89E3351B78"/>
+<pb n="40" facs="unknown:048579_0041_10258E89E3351B78"/>
 wiſe that take you for a fool. I have often heard you talk to my maſter as ſenſible as any-body in the world.</p>
                </sp>
                <sp>
@@ -1052,7 +1052,7 @@ wiſe that take you for a fool. I have often heard you talk to my maſter as ſe
                <sp>
                   <speaker>Juliet.</speaker>
                   <p>Too true indeed!—my conſcience tells me I have not the excuſe of folly.—But I have ſuf<g ref="char:EOLhyphen"/>fered paſſion to over-run and darken many good qualities. This one
-<pb n="41" facs="tcp:048579_0042_1025A1E16035B270"/>
+<pb n="41" facs="unknown:048579_0042_1025A1E16035B270"/>
 hour has driven it from my heart. I am no longer a fooliſh child.</p>
                   <stage>Enter Paulina.</stage>
                </sp>
@@ -1085,7 +1085,7 @@ hour has driven it from my heart. I am no longer a fooliſh child.</p>
                <sp>
                   <speaker>Paulina.</speaker>
                   <p>My good couſin, how
-<pb n="42" facs="tcp:048579_0043_1025A1E2EC47EC18"/>
+<pb n="42" facs="unknown:048579_0043_1025A1E2EC47EC18"/>
 I love that gratitude!—your fa<g ref="char:EOLhyphen"/>ther will allow her a penſion, we have ſettled all that ſince I left you.</p>
                </sp>
                <sp>
